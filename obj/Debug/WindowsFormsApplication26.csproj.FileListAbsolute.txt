@@ -1,0 +1,78 @@
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.Cache
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+c:\users\junior\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\Junior\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\PC\Jogos\we 2002\LER BYTES C#\EDITOR DE CORES beta\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\PC\Jogos\we 2002\LER BYTES C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\PC\Jogos\we 2002\LER BYTES C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojAssemblyReference.cache
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\C#\EDITOR DE CORES beta\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.AboutBox1.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.AboutBox1.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_0.2 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojAssemblyReference.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form2.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form2.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte - Copia\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\Junior\Desktop\TITLE EDIT COLOR  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojAssemblyReference.cache
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form2.resources
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE202] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.AssemblyReference.cache
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form2.resources
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+F:\PC\Jogos\we 2002\MEUS CODIGOS FONTES\VBNET E C#\[WE2002] Editor de cores do title  v_3.0 codigo fonte\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
