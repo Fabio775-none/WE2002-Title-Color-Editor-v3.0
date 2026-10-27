@@ -116,4 +116,4 @@ As modificações são realizadas no próprio arquivo selecionado, permitindo pe
 
 Projeto independente criado para estudo, pesquisa, engenharia reversa e personalização de jogos clássicos.
 
-Winning Eleven e Pro Evolution Soccer são marcas associadas à Konami. Este editor não possui vínculo oficial com a empresa.
+Winning Eleven são marcas associadas à Konami. Este editor não possui vínculo oficial com a empresa.
